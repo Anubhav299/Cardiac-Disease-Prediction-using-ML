@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 17 10:20:37 2022
 
-@author: Saloni Chugh
+@author: Anubhav Srivastava
 """
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -166,6 +166,7 @@ while j<3:
 print("list -- a",a)
 print("Average values",np.mean(a))
         
+
 
 
 
