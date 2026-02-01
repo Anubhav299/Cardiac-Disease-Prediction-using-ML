@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  1 18:54:37 2022
 
-@author: Saloni
+@author: Anubhav
 """
 
 import pandas as pd
@@ -186,4 +186,5 @@ print("Accuracy  is",svm.score(x_test,y_test))
 ############# For test train (poly)
 
 clf = SVC(kernel='poly', degree=3,C=1)  #change degree = 2 and C and see
+
 clf.fit(X, y)
