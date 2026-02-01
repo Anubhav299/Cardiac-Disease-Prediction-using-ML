@@ -2,7 +2,7 @@
 """
 Created on Thu Feb  3 14:51:45 2022
 
-@author: Saloni Chugh
+@author: Anubhav Srivastava
 """
 
 
@@ -134,3 +134,4 @@ for i in range(1,11):
 # print("Recall",score2)
 # print("F1 score",score3)
 # print(metrics.confusion_matrix(y_test,y_predict))
+
